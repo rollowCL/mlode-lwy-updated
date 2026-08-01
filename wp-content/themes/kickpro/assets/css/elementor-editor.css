@@ -1,0 +1,10 @@
+#elementor-panel-get-pro-elements-sticky,
+#elementor-panel-get-pro-elements,
+.elementor-nerd-box.elementor-nerd-box--upsale,
+#elementor-navigator__footer__promotion,
+.elementor-control-breadcrumbs_section,
+#e-notice-bar,
+.elementor-control-image.elementor-control-type-media .elementor-control-media__promotions
+{
+	display: none !important;
+}
