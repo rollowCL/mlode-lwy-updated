@@ -1,0 +1,16 @@
+body{
+	--e-global-color-primary					: #050505;
+	--e-global-color-secondary					: #FFFFFF;
+	--e-global-color-text						: #62625D;
+	--e-global-color-accent						: #FA5241;
+	--e-global-color-accentsecondary			: transparent;
+	--e-global-color-white						: #FFFFFF;
+	--e-global-color-black						: #000000;
+	--e-global-color-divider					: #0505051A;
+	--e-global-color-darkdivider				: #FFFFFF1A;
+	--e-global-color-background             	: #F9F9F9;
+	--e-global-typography-primary-font-family	: "Stack Sans Headline", sans-serif;
+	--e-global-typography-secondary-font-family	: "Stack Sans Headline", sans-serif;
+	--e-global-typography-text-font-family		: "Stack Sans Headline", sans-serif;
+	--e-global-typography-accent-font-family    : "Stack Sans Headline", sans-serif;
+}

@@ -1,0 +1,51 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kickpro Theme Addons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-12-09 12:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.9; php-8.2.12\n"
+"X-Domain: kickpro-theme-addons"
+
+#. Author of the plugin
+msgid "Awaiken Technology"
+msgstr ""
+
+#: includes/secondary-image.php:45
+msgid "Choose Image"
+msgstr ""
+
+#: includes/secondary-image.php:22
+msgid "Header Background Image"
+msgstr ""
+
+#: includes/secondary-image.php:41
+msgid ""
+"Header background image is intended for pages that are not created using "
+"Elementor."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://awaiken.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://awaikenthemes.com"
+msgstr ""
+
+#. Name of the plugin
+msgid "Kickpro Theme Addons"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin is intended for use with the kickpro theme."
+msgstr ""
