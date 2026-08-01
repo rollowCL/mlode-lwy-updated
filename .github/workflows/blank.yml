@@ -20,3 +20,5 @@ jobs:
           local-dir: ./
           server-dir: /public_html/karatecy_test/
           dangerous-clean-slate: false   # never delete files on the server that aren't in the repo (wp-config.php, uploads, wp core)
+          log-level: verbose
+          dry-run: true   # DIAGNOSTIC: no files are written to the server while this is true
