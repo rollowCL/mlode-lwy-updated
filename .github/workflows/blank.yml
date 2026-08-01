@@ -18,5 +18,5 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./
-          server-dir: /public_html/new_site/
+          server-dir: /public_html/karatecy_test/
           dangerous-clean-slate: false   # never delete files on the server that aren't in the repo (wp-config.php, uploads, wp core)
