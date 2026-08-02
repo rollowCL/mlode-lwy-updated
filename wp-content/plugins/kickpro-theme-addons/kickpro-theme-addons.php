@@ -54,3 +54,4 @@ function kickpro_allow_svg_upload( $mimes ) {
 add_filter( 'upload_mimes', 'kickpro_allow_svg_upload' );
 
 require KICKPRO_ADDONS_PATH . 'includes/secondary-image.php';
+require KICKPRO_ADDONS_PATH . 'includes/subject-options.php';
