@@ -61,7 +61,7 @@ if($background_image) {
 										</div>
 										<div class="post-item-btn">
 											<?php
-												printf( '<a href="%s">%s %s</a>', esc_url( $post_link ), __('Read More','kickpro'), kickpro_render_svg($KICKPRO_STORAGE['read_more_icon']));
+												printf( '<a href="%s">%s %s</a>', esc_url( $post_link ), __('Zobacz szczegóły','kickpro'), kickpro_render_svg($KICKPRO_STORAGE['read_more_icon']));
 											?>
 										</div>
 									</div>
